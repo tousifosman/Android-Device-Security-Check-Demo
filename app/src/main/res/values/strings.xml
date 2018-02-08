@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Device Security Check Demo</string>
+    <string name="safety_net_api_key">AIzaSyD74GxcWJ4n7hkLUQlsInDcDUtp98tbLmU</string>
+    <string name="phone_rooted">Phone not rooted</string>
+    <string name="app_has_root">App has no root permission</string>
+    <string name="app_on_emulator">App not running on emulator</string>
+    <string name="usb_debugging_active">USB debugging is not enabled</string>
+    <string name="debugger_connected">Debugger is not connected</string>
+    <string name="app_tampered">App is not tampered</string>
+    <string name="hook_framework">No hook framework installed</string>
+    <string name="app_hooked">App is not hooked</string>
+    <string name="malware_detected">No malware detected</string>
+</resources>
